@@ -1,0 +1,6 @@
+{
+  "name": "Campus Connect USTED",
+  "description": "Verified service marketplace connecting USTED university students with trusted student providers. Supports bookings, services, messaging, earnings list, and admin moderate dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
